@@ -1,0 +1,37 @@
+body{
+	background-color: rgb(186, 185, 185);
+    
+}
+main{
+	background-color: white;
+
+#navigation{
+	display: inline-block;
+}
+
+}
+
+header{
+	font-family: impact;
+	font-size: 68px; 
+	color: red;
+	text-align: center;
+	text-underline-position: center;
+	word-spacing; 5px;		
+
+
+}
+
+#alpha{
+	background-color: red
+	list-style:none;
+
+}
+
+aside{
+	float: right;
+	height: 300px;
+	width: 100%;
+	background-color: green;
+
+}
